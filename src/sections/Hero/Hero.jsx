@@ -25,7 +25,7 @@ function Hero() {
         <img
           src={heroImg}
           className={styles.hero}
-          alt="Profile picture of Harris Johnsen"
+          alt="Profile picture of Ashish Gautam"
         />
         <img
           className={styles.colorMode}
@@ -36,11 +36,11 @@ function Hero() {
       </div>
       <div className={styles.info}>
         <h1>
-          Harris
+          Ashish
           <br />
-          Johnsen
+          Gautam
         </h1>
-        <h2>Frontend Developer</h2>
+        <h2>Full-Stack Developer</h2>
         <span>
           <a href="https://twitter.com/" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
